@@ -1,6 +1,6 @@
 # vim<!-- omit in toc -->
 
-vim is a text editor. It is available on most operating sytems.
+vim is a text editor. It is available on most operating systems.
 
 ## Table of contents<!-- omit in toc -->
 
